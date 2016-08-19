@@ -1,7 +1,7 @@
 {
   "name": "feedback",
   "version": "0.0.1",
-  "description": "Provide feedback for users and handle errors",
+  "description": "A Vue.js component for providing feedback to users and handling errors",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
