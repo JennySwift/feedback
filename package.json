@@ -1,5 +1,5 @@
 {
-  "name": "feedback",
+  "name": "@jennyswift/feedback",
   "version": "0.0.1",
   "description": "A Vue.js component for providing feedback to users and handling errors",
   "main": "index.js",
