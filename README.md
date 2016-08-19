@@ -1,6 +1,6 @@
 1. Register component.
 ```
-Vue.component('feedback', require('feedback'));
+Vue.component('feedback', require('@jennyswift/feedback'));
 ```
 
 2. Add template such as:
