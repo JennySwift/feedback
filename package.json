@@ -1,0 +1,20 @@
+{
+  "name": "feedback",
+  "version": "0.0.1",
+  "description": "Provide feedback for users and handle errors",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Jenny Swift",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.1.0",
+    "underscore": "^1.8.3",
+    "vue": "^1.0.26"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  }
+}
