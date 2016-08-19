@@ -1,9 +1,9 @@
-1. Register component.
+* Register component.
 ```
 Vue.component('feedback', require('@jennyswift/feedback'));
 ```
 
-2. Add template such as:
+* Add template such as:
 ```
 <template id="feedback-template">
     <div id="feedback">
@@ -23,9 +23,9 @@ Vue.component('feedback', require('@jennyswift/feedback'));
 </template>
 ```
 
-3. Add styling
+* Add styling
 
-4. To use:
+* To use:
 ```
 $.event.trigger('provide-feedback', [feedbackMessage, 'success']);
 ```
